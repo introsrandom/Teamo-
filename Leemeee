@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Para el amor de mi vida 💖</title>
+  <style>
+    body {
+      background: linear-gradient(to bottom, #ffd6e7, #fff);
+      font-family: Georgia, serif;
+      text-align: center;
+      margin: 0;
+    }
+
+    h1 {
+      color: #ff4d88;
+      margin-top: 30px;
+    }
+
+    .carta {
+      background: white;
+      margin: 20px;
+      padding: 20px;
+      border-radius: 20px;
+      box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+    }
+
+    img {
+      width: 120px;
+      height: 120px;
+      border-radius: 20px;
+      margin: 5px;
+    }
+
+    button {
+      padding: 10px 20px;
+      font-size: 18px;
+      border: none;
+      border-radius: 20px;
+      margin: 10px;
+      cursor: pointer;
+    }
+
+    .si {
+      background: #ff66a3;
+      color: white;
+    }
+
+    .no {
+      background: #ccc;
+    }
+  </style>
+</head>
+
+<body>
+
+  <h1>Para mi persona favorita 🐶🐰💖</h1>
+
+  <div class="carta">
+    Mi amor…
+
+    Eres lo más bonito que me ha pasado.
+    Contigo todo es más suave, más dulce,
+    como un mundo lleno de perritos y conejitos abrazándonos.
+
+    Eres mi parte favorita de cada dia, cada llamada, cada te amo, cada risa juntos realmente me hacen amarte de por vida, llegaste cuando menos lo esperaba, dandome el amor que nunca habia recibido, cada detalle tuyo hacia mi los amo, cada tiktok, cada reel, siempre los veo y te tomo en cuenta todo, cada vez que me despierto siempre pienso en ti, eres mi novia, pero tambien eres la persona que mas confianza le tengo, siempre estas ahi, siempre me dices cosas bonitas, y realmnete nunca he sido de mandar tantos videos y tantas cosas o de tener estos pequeños detalles, pero realmente usted se lo merece y se lo ha ganado, usted a sido la causa de mi felicidad, de mi amor a la vida y sinceramente te lo agradezco con el alma, cada dia que usted esta, es mucho mas bonito que el anterior, y me ha hecho amar cada vez mas los pequeños detalles de la vida, me ha hecho un hombre que veo un perrito y digo "que lindooo tengo que enseñarselo a dioma" con cualquier animal bonito y cualquier cosa que veo, y el pensar en ti cada instante realmente me hace amarte con todo mi corazon y mi alma.
+
+    Por eso hoy quiero preguntarte algo muy importante…
+  </div>
+
+  <img src="https://source.unsplash.com/120x120/?cute-puppy">
+  <img src="https://source.unsplash.com/120x120/?puppy">
+  <img src="https://source.unsplash.com/120x120/?bunny">
+  <img src="https://source.unsplash.com/120x120/?rabbit">
+  <img src="https://source.unsplash.com/120x120/?cute-dog">
+  <img src="https://source.unsplash.com/120x120/?baby-rabbit">
+
+  <h2 style="color:#ff3385;">¿Te quieres casar conmigo? 💍🥹</h2>
+
+  <button class="si" onclick="alert('💖 SABÍA QUE DIRÍAS QUE SÍ 💖')">¡Sí! 💖</button>
+  <button class="no" onclick="alert('😜 Inténtalo otra vez')">No</button>
+
+</body>
+
+</html>
